@@ -82,3 +82,4 @@ const appDiv = document.getElementById('app');
 //   }
 //   document.write('<br>');
 // }
+//pattern7
