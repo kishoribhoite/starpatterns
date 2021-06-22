@@ -60,15 +60,25 @@ const appDiv = document.getElementById('app');
 //   document.write('<br>');
 // }
 //pattern 5
-var n = 5;
-var i, j, k;
+// var n = 5;
+// var i, j, k;
 
-for (i = 1; i <= n; i++) {
-  for (j = 0; j < n - i; j++) {
-    document.write('x ');
-  }
-  for (k = 0; k < i; k++) {
-    document.write('* ');
-  }
-  document.write('<br>');
-}
+// for (i = 1; i <= n; i++) {
+//   for (j = 0; j < n - i; j++) {
+//     document.write('x ');
+//   }
+//   for (k = 0; k < i; k++) {
+//     document.write('* ');
+//   }
+//   document.write('<br>');
+// }
+//pattern 6
+
+// var i, j;
+// var n = 5;
+// for (i = 1; i <= n; i++) {
+//   for (j = 1; j <= i; j++) {
+//     document.write(j);
+//   }
+//   document.write('<br>');
+// }
